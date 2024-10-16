@@ -52,3 +52,30 @@ C:\Users\УАТ\GIT LABA\Hakimov_Autoservice\obj\Debug\Hakimov_Autoservice.Prope
 C:\Users\УАТ\GIT LABA\Hakimov_Autoservice\obj\Debug\Hakimov_Autoservice.csproj.GenerateResource.cache
 C:\Users\УАТ\GIT LABA\Hakimov_Autoservice\obj\Debug\Hakimov_Autoservice.csproj.CoreCompileInputs.cache
 C:\Users\УАТ\GIT LABA\Hakimov_Autoservice\obj\Debug\Hakimov_Autoservice.csproj.CopyComplete
+C:\Хакимов\Hakimov_Autoservice\bin\Debug\Hakimov_Autoservice.exe.config
+C:\Хакимов\Hakimov_Autoservice\bin\Debug\Hakimov_Autoservice.exe
+C:\Хакимов\Hakimov_Autoservice\bin\Debug\Hakimov_Autoservice.pdb
+C:\Хакимов\Hakimov_Autoservice\bin\Debug\EntityFramework.dll
+C:\Хакимов\Hakimov_Autoservice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Хакимов\Hakimov_Autoservice\bin\Debug\EntityFramework.xml
+C:\Хакимов\Hakimov_Autoservice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Хакимов\Hakimov_Autoservice\bin\Debug\ru\EntityFramework.resources.dll
+C:\Хакимов\Hakimov_Autoservice\obj\Debug\Hakimov_Autoservice.csproj.AssemblyReference.cache
+C:\Хакимов\Hakimov_Autoservice\obj\Debug\AddEditPage.g.cs
+C:\Хакимов\Hakimov_Autoservice\obj\Debug\MainWindow.g.cs
+C:\Хакимов\Hakimov_Autoservice\obj\Debug\ServicePage.g.cs
+C:\Хакимов\Hakimov_Autoservice\obj\Debug\App.g.cs
+C:\Хакимов\Hakimov_Autoservice\obj\Debug\Hakimov_Autoservice_Content.g.cs
+C:\Хакимов\Hakimov_Autoservice\obj\Debug\Hakimov_Autoservice_MarkupCompile.cache
+C:\Хакимов\Hakimov_Autoservice\obj\Debug\Hakimov_Autoservice_MarkupCompile.lref
+C:\Хакимов\Hakimov_Autoservice\obj\Debug\App.baml
+C:\Хакимов\Hakimov_Autoservice\obj\Debug\AddEditPage.baml
+C:\Хакимов\Hakimov_Autoservice\obj\Debug\MainWindow.baml
+C:\Хакимов\Hakimov_Autoservice\obj\Debug\ServicePage.baml
+C:\Хакимов\Hakimov_Autoservice\obj\Debug\Hakimov_Autoservice.g.resources
+C:\Хакимов\Hakimov_Autoservice\obj\Debug\Hakimov_Autoservice.Properties.Resources.resources
+C:\Хакимов\Hakimov_Autoservice\obj\Debug\Hakimov_Autoservice.csproj.GenerateResource.cache
+C:\Хакимов\Hakimov_Autoservice\obj\Debug\Hakimov_Autoservice.csproj.CoreCompileInputs.cache
+C:\Хакимов\Hakimov_Autoservice\obj\Debug\Hakimov_.93E5230F.Up2Date
+C:\Хакимов\Hakimov_Autoservice\obj\Debug\Hakimov_Autoservice.exe
+C:\Хакимов\Hakimov_Autoservice\obj\Debug\Hakimov_Autoservice.pdb
